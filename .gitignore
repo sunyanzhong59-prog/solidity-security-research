@@ -1,0 +1,32 @@
+# .gitignore for Solidity Security Research
+
+# Dependencies
+node_modules/
+lib/
+
+# Build artifacts
+out/
+cache/
+build/
+
+# Environment
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Foundry
+out/
+cache/
+
+# Temporary files
+*.tmp
+*.log
