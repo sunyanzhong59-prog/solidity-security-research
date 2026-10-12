@@ -11,6 +11,10 @@ This repository serves as a daily log of security research activities, including
 - Security pattern documentation
 - Bug bounty submission tracking
 
+## Featured
+
+🎯 **[sherlock-samples](https://github.com/sunyanzhong59-prog/sherlock-samples)** — two self-contained adversarial PoC samples (fee-bypass `Medium` / ERC777 cross-function reentrancy `High`), verified **10/10 PASS** on-chain with a reproducible solc+anvil+cast driver.
+
 ## Researcher
 
 - **GitHub:** [sunyanzhong59-prog](https://github.com/sunyanzhong59-prog)
